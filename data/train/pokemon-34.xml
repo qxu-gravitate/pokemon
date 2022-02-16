@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>pokemon-34.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/pokemon-34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulbasaur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>62</ymin>
+			<xmax>127</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

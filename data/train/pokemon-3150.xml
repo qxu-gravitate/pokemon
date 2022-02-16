@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>pokemon-3150.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/pokemon-3150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>221</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pikachu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>29</ymin>
+			<xmax>207</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

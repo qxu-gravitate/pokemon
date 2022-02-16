@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>pokemon-86.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/pokemon-86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pikachu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>391</ymin>
+			<xmax>957</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

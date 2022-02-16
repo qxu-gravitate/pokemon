@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>pokemon-112.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/pokemon-112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eevee</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>297</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

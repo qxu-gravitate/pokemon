@@ -1,0 +1,26 @@
+<annotation>
+	<folder>combined</folder>
+	<filename>pokemon-232.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/pokemon-232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charmander</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>63</ymin>
+			<xmax>306</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

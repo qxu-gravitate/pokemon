@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>combined</folder>
+	<filename>largedsa.jpg</filename>
+	<path>/home/ares/Work/xa/pokemon_project/data/data/combined/largedsa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pikachu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>26</ymin>
+			<xmax>483</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

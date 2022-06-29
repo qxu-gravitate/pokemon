@@ -45,3 +45,4 @@ tensorboard --logdir logs
 ```
 Check from http://localhost:6006/
 
+# Image Data: https://drive.google.com/drive/folders/1Tk9gP4gxiQkZ7_H27nIXtNl9RbF__F30?usp=sharing
